@@ -6,7 +6,7 @@
 > Building immersive VR/AR training experiences for Meta Quest _
 ```
 
-Currently completing my **Master's dissertation** - a gamified VR onboarding & training application built in **Unity for Meta Quest**, developed during an internship at **Hubduction (Águeda, PT)**. I build things at the intersection of immersive technology, gamification, and real-world training.
+Currently completing my **Master's dissertation**, a gamified VR onboarding & training application built in **Unity for Meta Quest**, developed during an internship at **Hubduction (Águeda, PT)**. I build things at the intersection of immersive technology, gamification, and real-world training.
 
 ---
 
@@ -19,7 +19,7 @@ Currently completing my **Master's dissertation** - a gamified VR onboarding & t
 `React` `Vite` `Node.js` `MapLibre GL` `MindAR.js` `Sanity CMS`
 
 **Languages**
-`🇵🇹 Portuguese (Native)` `🇬🇧 English (Fluent)` `🇩🇪 German (Fluent)`
+`🇵🇹 Portuguese (Native)` `🇬🇧 English (Fluent)`
 
 **Other**
 `3DVista` `Figma` `Python` `Kotlin`
@@ -56,11 +56,17 @@ Voice-controlled smart home assistant built for elderly users, designed as an al
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skills & Tools
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroC55&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroC55&layout=compact&theme=github_dark&hide_border=true)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta_Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -69,8 +75,8 @@ Voice-controlled smart home assistant built for elderly users, designed as an al
 - 📧 plbc@ua.pt
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pedrocoelho485/)
 - 🌍 Aveiro, Portugal
-- 🌐 Available in PT · EN · DE
+- 🌐 Available in PT · EN 
 
 ---
 
-*Open to XR/Unity/Web Development/Back-end Development freelance opportunities and full-time roles in immersive tech.*
+*Open to XR/Unity/Web Development/Back-end Development freelance opportunities and full-time roles.*
