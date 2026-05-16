@@ -6,7 +6,7 @@
 > Building immersive VR/AR training experiences for Meta Quest _
 ```
 
-Currently completing my **Master's dissertation** — a gamified VR onboarding & training application built in **Unity for Meta Quest**, developed during an internship at **Hubduction (Águeda, PT)**. I build things at the intersection of immersive technology, gamification, and real-world training.
+Currently completing my **Master's dissertation** - a gamified VR onboarding & training application built in **Unity for Meta Quest**, developed during an internship at **Hubduction (Águeda, PT)**. I build things at the intersection of immersive technology, gamification, and real-world training.
 
 ---
 
