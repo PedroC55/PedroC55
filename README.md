@@ -67,10 +67,10 @@ Voice-controlled smart home assistant built for elderly users, designed as an al
 ## 📫 Get in Touch
 
 - 📧 plbc@ua.pt
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-coelho-xxxxxx) ← *atualiza este link*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pedrocoelho485/)
 - 🌍 Aveiro, Portugal
 - 🌐 Available in PT · EN · DE
 
 ---
 
-*Open to XR/Unity freelance opportunities and full-time roles in immersive tech.*
+*Open to XR/Unity/Web Development/Back-end Development freelance opportunities and full-time roles in immersive tech.*
