@@ -6,7 +6,7 @@
 > Building immersive VR/AR training experiences for Meta Quest _
 ```
 
-Currently completing my **Master's dissertation**, a gamified VR onboarding & training application built in **Unity for Meta Quest**, developed during an internship at **Hubduction (Águeda, PT)**. I build things at the intersection of immersive technology, gamification, and real-world training.
+Completed my **Master's dissertation**, a gamified VR onboarding & training application built in **Unity for Meta Quest**, developed during an internship at **Hubduction (Águeda, PT)**. I build things at the intersection of immersive technology, gamification, and real-world training.
 
 ---
 
@@ -28,14 +28,14 @@ Currently completing my **Master's dissertation**, a gamified VR onboarding & tr
 
 ## 🚀 Featured Projects
 
-### 🥽 VR Training Application *(confidential — NDA)*
+### 🥽 VR Training Application *(confidential)*
 Gamified onboarding & training VR app for **Meta Quest**, developed during an industry internship. Details available upon request.
 
 `Unity` `C#` `Meta Quest SDK` `XR Interaction Toolkit` `Node.js`
 
 ---
 
-### 📍 Condeixa XR — Location-based AR PWA
+### 📍 Condeixa XR: Marker-based AR PWA
 AR progressive web app for a municipality client. Features image tracking (MindAR.js), interactive map (MapLibre GL), and content managed via Sanity CMS. Fully compatible with iOS & Android without app store installation.
 
 `Vite` `MindAR.js` `MapLibre GL` `Sanity CMS` `PWA`
@@ -72,7 +72,7 @@ Voice-controlled smart home assistant built for elderly users, designed as an al
 
 ## 📫 Get in Touch
 
-- 📧 plbc@ua.pt
+- 📧 pedro.coelho.web@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pedrocoelho485/)
 - 🌍 Aveiro, Portugal
 - 🌐 Available in PT · EN 
